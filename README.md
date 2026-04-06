@@ -1,0 +1,1 @@
+Its a Agritech project , we biult at REVA college hackathon . Its a website which takes input from farmer of yeild size , soil type , location. and predict the top best crop type . and aslo addded the "carbon-crop" in the project which show the carbon credits from the farmer to sell and other login for the bussiness person to buy the carbon credits
